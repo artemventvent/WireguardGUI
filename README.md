@@ -25,7 +25,7 @@ and saving the last selected interface.
 1. Copy the script to the desired directory.
 2. Ensure the script has execution permissions:
     ```bash
-    chmod +x /home/user/Scripts/wireguardGuiTools.sh
+    chmod +x /example/path/wireguardGui.sh
     ```
 
 ## Usage
