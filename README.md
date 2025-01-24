@@ -3,6 +3,13 @@ This script provides a convenient text interface for managing VPN connections vi
 The program supports selecting configuration files, managing connections and statuses, 
 and saving the last selected interface.
 - - -
+## Preview
+![pr1](previews/wireguardgui1.png)
+- - -
+![pr1](previews/wireguardgui2.png)
+- - -
+![pr1](previews/wireguardgui3.png)
+- - -
 ## Features
 - Select a primary VPN interface from the list.
 - Add a new interface by specifying the path to the configuration file.
