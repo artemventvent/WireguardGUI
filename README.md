@@ -18,7 +18,7 @@ and saving the last selected interface.
 - Display the status of the active interface.
 - Automatically save the last selected interface.
 ## Requirements
-- WireGuard installed.
+- [Wireguard](https://www.wireguard.com/install/) installed.
 - The `dialog` utility for displaying the text interface.
 - - -
 ## Installation and Setup
@@ -40,9 +40,9 @@ Upon launch, you will be prompted to enter the `sudo` password for performing ad
 ### Example Configuration for a Popup Window:
 ```bash
 #!/bin/bash
-hyprctl keyword windowrulev2 "float, class:kitty, title:(VPN)"
+hyprctl keyword windowrulev2 "float, class:kitty, title:(Wireguard GUI)"
 
-kitty --hold --title "VPN" -e bash -c "
+kitty --hold --title "Wireguard GUI" -e bash -c "
 sh /example/path/wireguardGui.sh
 "
 ```
