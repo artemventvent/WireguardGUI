@@ -1,4 +1,4 @@
-# Guide to Using WireGuard GUI
+# WireGuard GUI
 This script provides a convenient text interface for managing VPN connections via WireGuard. 
 The program supports selecting configuration files, managing connections and statuses, 
 and saving the last selected interface.
