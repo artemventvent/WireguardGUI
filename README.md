@@ -5,9 +5,9 @@ and saving the last selected interface.
 - - -
 ## Preview
 ![pr1](previews/wireguardgui1.png)
-- - -
+
 ![pr1](previews/wireguardgui2.png)
-- - -
+
 ![pr1](previews/wireguardgui3.png)
 - - -
 ## Features
